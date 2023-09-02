@@ -1,6 +1,6 @@
 # Keyword Extraction System with Word Cloud Visualization
 
-This project provides a solution for extracting keywords from text documents and visualizing them in a word cloud. The system analyzes the input text, identifies the most important keywords, and generates a visually appealing word cloud where the size of each word represents its significance or frequency in the text.
+This project provides a solution for extracting keywords from text documents and visualizing them in a word cloud. The system analyzes the input text, identifies the most important keywords, and generates a word cloud where the size of each word represents its significance or frequency in the text.
 
 ## Introduction
 
