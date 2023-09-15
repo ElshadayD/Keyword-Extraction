@@ -10,7 +10,7 @@ Extracting keywords from text documents helps to identify the most relevant and 
 
 - Text processing and keyword extraction from input texts.
 - Calculation of keyword importance or frequency.
-- Generation of a word cloud visualization with adjustable font sizes.
+- Generation of a word cloud visualization with different font sizes.
 - User-friendly interface for easy input and visualization customization.
 
  
