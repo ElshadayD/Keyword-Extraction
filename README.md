@@ -4,7 +4,7 @@ This project provides a solution for extracting keywords from text documents and
 
 ## Introduction
 
-Extracting keywords from text documents helps to identify the most relevant and significant terms or phrases within the content. The Keyword Extraction System uawa natural language processing techniques to analyze texts and extract keywords. By visualizing these keywords in a word cloud, users can easily grasp the main topics covered in a document.
+Extracting keywords from text documents helps to identify the most relevant terms or phrases within the content. The Keyword Extraction System uses natural language processing techniques to analyze texts and extract keywords. By visualizing these keywords in a word cloud, users can easily grasp the main topics covered in a document.
 
 ## Features
 
